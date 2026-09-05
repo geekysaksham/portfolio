@@ -20,6 +20,8 @@ A responsive personal portfolio website built using HTML and Tailwind CSS. This 
 ## 📸 Preview
 
 <img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/450fb6c9-2706-4015-bc74-81c2eb6c15e4" />
+<img width="1917" height="891" alt="image" src="https://github.com/user-attachments/assets/71940d98-f5c1-4837-85ff-1bf9454fffe8" />
+
 
 
 ## 🌐 Live Demo
